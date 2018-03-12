@@ -1,6 +1,9 @@
 # RECIPIENTS-APP
 
----
+## Requirements
+
+  - nodejs
+  - npm
 
 ## Install
 
